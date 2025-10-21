@@ -34,7 +34,7 @@
 | [**Diabetes-ML Portfolio**](https://github.com/Uche-Stephen/diabetes-ml-portfolio) | Clinical data modeling with feature engineering, calibration, and reporting | Python · scikit-learn |
 | [**Data Dashboard**](https://github.com/Uche-Stephen/data-dashboard) | Interactive analytics dashboard demonstrating clean visualization practices | Streamlit · pandas · plotly |
 
-> 📁 Each repository includes a reproducible environment, model & data cards, results figures, and CI status badges.
+> 📁 Each repository includes a reproducible environment & results figures.
 
 ---
 
@@ -63,7 +63,6 @@ I aim to collaborate with supervisors exploring **precision dosing, multi-omics 
 
 ##  Contact
 - **Email:** [uchechukwuamaefule1655@gmail.com](mailto:uchechukwuamaefule1655@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/uche-stephen](https://linkedin.com/in/uche-stephen)  
 - **GitHub:** [github.com/Uche-Stephen](https://github.com/Uche-Stephen)
 
 ---
