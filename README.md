@@ -26,13 +26,16 @@
 ---
 
 ## 🧠 Featured Projects
+
 | Project | Description | Stack |
-|----------|--------------|-------|
-| [**Warfarin-PGx-ML-App**](https://github.com/Uche-Stephen/warfarin-pgx-ml) | End-to-end IWPC pharmacogenomic dosing pipeline (ETL → model → SHAP interpretability → Streamlit UI) | Python · scikit-learn · SHAP · Streamlit |
-| [**RNA-seq Differential Expression**](https://github.com/Uche-Stephen/rna-seq-differential-expression) | From QC and alignment to DE analysis and pathway visualization | Python · Biopython · matplotlib |
-| [**DNA Sequence Explorer**](https://github.com/Uche-Stephen/dna-sequence-explorer) | GC-content, codon-usage, and motif-scan tool for genomic insight | Python · Biopython |
-| [**Diabetes-ML Portfolio**](https://github.com/Uche-Stephen/diabetes-ml-portfolio) | Clinical data modeling with feature engineering, calibration, and reporting | Python · scikit-learn |
-| [**Data Dashboard**](https://github.com/Uche-Stephen/data-dashboard) | Interactive analytics dashboard demonstrating clean visualization practices | Streamlit · pandas · plotly |
+|---|---|---|
+| [**PGx Warfarin ML Portfolio**](https://github.com/Uche-Stephen/pgx-warfarin-ml-portfolio) | End-to-end IWPC pharmacogenomic dosing pipeline (ETL → modeling → SHAP) with a Streamlit demo and reproducible env. | Python · scikit-learn · SHAP · Streamlit |
+| [**RNA-seq Differential Expression**](https://github.com/Uche-Stephen/rnaseq_differential_expression) | QC → alignment/quant → normalization → DE tests → pathway viz; clear figures and report structure. | Python · Biopython · matplotlib |
+| [**Gene Expression Classifier**](https://github.com/Uche-Stephen/gene-expression-classifier) | Supervised learning on gene-expression matrices with calibration and error analysis. | Python · scikit-learn |
+| [**DNA Sequence Explorer**](https://github.com/Uche-Stephen/dna-sequence-explorer) | GC content, codon usage, and motif scans; clean CLI + tests. | Python · Biopython |
+| [**Diabetes ML Portfolio**](https://github.com/Uche-Stephen/diabetes-ml-portfolio) | Clinical tabular modeling with feature engineering, model comparison, and reporting. | Python · scikit-learn |
+| [**Data Dashboard**](https://github.com/Uche-Stephen/data_dashboard) | Lightweight analytics dashboard demonstrating tidy viz and layout. | Streamlit · pandas · plotly |
+| [**Automated File Organizer**](https://github.com/Uche-Stephen/automated_file_organizer) | Utility script to sort downloads; small but well-structured with clear flags. | Python · pathlib |
 
 > 📁 Each repository includes a reproducible environment & results figures.
 
