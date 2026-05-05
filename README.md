@@ -97,15 +97,6 @@ This combination of clinical pharmacy training and computational practice shapes
 
 ---
 
-### Academic and Research Goals
-
-I am pursuing MSc Pharmaceutical Sciences with a focus on AI and Machine Learning.
-
-I want to work on:
-
-- AI-driven pharmacogenomic and clinical models for dose optimization and toxicity reduction  
-- Integration of multi-omics and clinical data for decision support in therapeutics  
-- Interpretable ML systems that clinicians can trust when adjusting therapy, especially for under-represented populations and data-sparse settings  
 
 I am particularly interested in supervisors who work at the interface of pharmacology, pharmacometrics or PK/PD, data science, and clinical decision support, with a focus on improving real-world therapeutic outcomes.
 
